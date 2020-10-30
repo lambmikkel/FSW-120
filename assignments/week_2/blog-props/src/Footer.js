@@ -32,7 +32,7 @@ function Footer() {
               </a>
             </li>
           </ul>
-          <p className="copyright text-muted">Copyright &copy; Your Website 2019</p>
+          <p className="copyright text-muted">Copyright &copy; Lambware 2020</p>
         </div>
       </div>
     </div>
