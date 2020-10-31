@@ -2,9 +2,9 @@ import React from "react"
 
 function Dice(props) {
     const style = {
-        border: "black solid 3px",
+        border: "black solid 2px",
         textAlign: "center",
-        width: 100,
+        width: 120,
         gridColumn: "span 1"
     }
     return (
