@@ -1,0 +1,76 @@
+body {
+  font-family: 'Syne Mono', monospace;
+  background-color: orange;
+}
+
+.homePage {
+    
+}
+div.homePage > h1 {
+    text-align: center;
+    font-size: 100px;
+    text-decoration: underline;
+    color: green;
+    text-decoration-color: black;
+}
+
+div.homePage > p {
+    font-size: 50px;
+    text-align: center;
+    
+}
+
+div.table > ul {
+  background: green;
+    font-size: 30px;
+    font-weight: bold;
+    list-style-type: square;
+    list-style-position: inside;
+
+}
+
+
+.footer {
+    position: fixed;
+    bottom: 0;
+    right: 5px;
+    font-size: 30px;
+    font-weight: bold;
+    background: green;
+}
+
+.table {
+    display: table;
+    margin: 0 auto;
+}
+
+.about {
+    font-size: 40px;
+}
+
+div.nav > ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: green;
+  
+  }
+  
+  div.nav > ul > li {
+    float: left;
+  }
+  
+  li a.link {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  /* Change the link color to #111 (black) on hover */
+  li a.link:hover {
+    background-color: #111;
+    color: blue;
+  }
