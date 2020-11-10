@@ -1,0 +1,33 @@
+[
+  {
+      "id": 1,
+      "handle": "NelsonMandela",
+      "tweetContent": "The greatest glory in living lies not in never falling, but in rising every time we fall."
+  },
+  {
+      "id": 2,
+      "handle": "WaltDisney",
+      "tweetContent": "The way to get started is to quit talking and begin doing."
+  },
+  {
+      "id": 3,
+      "handle": "EleanorRoosevelt",
+      "tweetContent": "If life were predictable it would cease to be life, and be without flavor."
+  },
+  {
+      "id": 4,
+      "handle": "OprahWinfrey",
+      "tweetContent": "If you look at what you have in life, you'll always have more. If you look at what you don't have in life, you'll never have enough."
+  },
+  {
+      "id": 5,
+      "handle": "JamesCameron",
+      "tweetContent": "If you set your goals ridiculously high and it's a failure, you will fail above everyone else's success."
+  },
+  {
+      "id": 6,
+      "handle": "JohnLennon",
+      "tweetContent": "Life is what happens when you're busy making other plans."
+
+  }
+]
